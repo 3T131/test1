@@ -10,7 +10,7 @@ import java.util.Map;
 public class Shangji1 {
     public static void main(String[] args) {
         Session session= HibernateUtil.openSession();
-
+//加注释
         /*
         // 查询所有列表
 
